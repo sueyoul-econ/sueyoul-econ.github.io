@@ -1,5 +1,8 @@
-# yjaejeong.github.io
+# sueyoul-econ.github.io
 
-This is the source code for Youngjae Jeong's academic website: https://yjaejeong.github.io/. 
-The template of the website is primarily from Youngjae Min: https://youngjae-min.github.io/.
-You are welcome to clone this code for your own personal use, but please attribute the source to the original website, this repository, or Youngjae Min's template.
+This repository contains the source code for Sueyoul Kim's academic website:  
+https://sueyoul-econ.github.io/
+
+The website is adapted from the template by Youngjae Jeong  
+(https://yjaejeong.github.io/), which is based on the original template by  
+Youngjae Min (https://youngjae-min.github.io/).
