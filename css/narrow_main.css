@@ -4,8 +4,8 @@
           width: 99%;
       }
       img {
-          width: 49%;
-          min-width: 299px;
-          align: middle;
-      }
+        width: 49%;
+        min-width: 299px;
+        vertical-align: middle;
+    }
   }
