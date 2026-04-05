@@ -28,13 +28,12 @@ function togglebib(paperid)
 function toggleblock(blockId)
 {
    var block = document.getElementById(blockId);
-   if (block.style.display == 'none') {
-    block.style.display = 'block' ;
+   if (window.getComputedStyle(block).display === 'none') {
+    block.style.display = 'block';
    } else {
-    block.style.display = 'none' ;
+    block.style.display = 'none';
    }
 }
-
 function hideblock(blockId)
 {
    var block = document.getElementById(blockId);
