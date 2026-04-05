@@ -1,4 +1,17 @@
 /* Design Credits: Jon Barron and Abhishek Kar and Saurabh Gupta*/
+
+  /* Additional class properties*/
+  .paper-meta {
+    margin: 0 0 0px 0;
+  }
+
+  .paper-abstract {
+    display: none;
+    text-align: justify;
+  }
+  /* Additional class properties (end)*/
+
+
   a {
   color: #1772d0;
   text-decoration:none;
@@ -15,7 +28,7 @@
   heading {
     font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
     font-size: 17px; /* 19 */
-    font-weight: 600 /* 1000 */
+    font-weight: 400 /* 1000 */
   }
   strong {
     font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
@@ -36,6 +49,9 @@
     font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
     font-size: 38px;
     font-weight: 400
+  }
+  section {
+    scroll-margin-top: 40px;
   }
   #navbar_outer {
     padding: 7px;
@@ -72,9 +88,6 @@
   }
   #navbar li a:hover {
       color: #f09228;
-  }
-  .active {
-      border-bottom: 2px solid #f09228;
   }
   .ImageBorder
   {
