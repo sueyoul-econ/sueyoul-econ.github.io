@@ -1,7 +1,9 @@
   @media only screen and (max-width:799px) {
       td {
-          display: table-row;
+          display: block;
           width: 99%;
+          padding-top: 8px;
+          padding-bottom: 8px;
       }
       img {
         width: 49%;
