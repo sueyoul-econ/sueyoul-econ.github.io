@@ -4,6 +4,7 @@
           width: 99%;
           padding-top: 8px;
           padding-bottom: 8px;
+          box-sizing: border-box;
       }
       img {
         width: 49%;
